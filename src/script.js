@@ -1,4 +1,3 @@
-console.log(123);
 const btn = document.getElementById('menu-btn');
 const menu = document.getElementById('menu');
 
